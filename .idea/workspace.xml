@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : new code of kmca was added">
-      <change afterPath="$PROJECT_DIR$/Navie_bayes_classifier/email_nbc.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navie_bayes_classifier/titanic_nbc.ipynb" afterDir="false" />
+    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : new code of naive bytes added">
+      <change afterPath="$PROJECT_DIR$/hyper_parameter_tuning/iris_hyper_pt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hyper_parameter_tuning/model_select.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/K_fold_cross_val.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/K_fold_cross_val/K_fold_cross_val.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/k_mean_cluster_algo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/K_means_cluster/k_mean_cluster_algo.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/people_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/K_means_cluster/people_data.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763923564924</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat : new code of naive bytes added">
+      <option name="closed" value="true" />
+      <created>1763997021206</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763997021206</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +159,7 @@
     <MESSAGE value="feat : added code of Random Forest Algorithm" />
     <MESSAGE value="feat : new code of kfcv was added" />
     <MESSAGE value="feat : new code of kmca was added" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : new code of kmca was added" />
+    <MESSAGE value="feat : new code of naive bytes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : new code of naive bytes added" />
   </component>
 </project>
