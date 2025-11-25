@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : new code of hyper tuning added">
-      <change afterPath="$PROJECT_DIR$/iris_train/iris_knn.ipynb" afterDir="false" />
+    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : new code of knn added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764000703160</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat : new code of knn added">
+      <option name="closed" value="true" />
+      <created>1764079676756</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764079676756</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,6 +176,7 @@
     <MESSAGE value="feat : new code of kmca was added" />
     <MESSAGE value="feat : new code of naive bytes added" />
     <MESSAGE value="feat : new code of hyper tuning added" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : new code of hyper tuning added" />
+    <MESSAGE value="feat : new code of knn added" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : new code of knn added" />
   </component>
 </project>
