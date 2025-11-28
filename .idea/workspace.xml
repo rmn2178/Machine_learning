@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : workspace">
-      <change afterPath="$PROJECT_DIR$/adult_income/data_preprocess.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adult_income/log_reg_code.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adult_income/random_forest_algo.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adult_income/xgB=_boost.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : added a new classification">
+      <change afterPath="$PROJECT_DIR$/liver_patient/RFA_classify.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -53,21 +48,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.csdjhsi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_visualisation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gvsdgvfsd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.predict_code.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ten.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.csdjhsi.executor": "Run",
+    "Python.data_visualisation.executor": "Run",
+    "Python.gvsdgvfsd.executor": "Run",
+    "Python.predict_code.executor": "Run",
+    "Python.ten.executor": "Run",
+    "Python.xgB=_boost.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Machine_learning\K_fold_cross_val" />
@@ -179,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764081503299</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="feat : added a new classification">
+      <option name="closed" value="true" />
+      <created>1764344625991</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764344625991</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,6 +196,7 @@
     <MESSAGE value="feat : new code of hyper tuning added" />
     <MESSAGE value="feat : new code of knn added" />
     <MESSAGE value="feat : workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : workspace" />
+    <MESSAGE value="feat : added a new classification" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : added a new classification" />
   </component>
 </project>
