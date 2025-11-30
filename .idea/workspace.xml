@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : added a new classification code">
-      <change afterPath="$PROJECT_DIR$/youth_unemployment/unemployent_classification.ipynb" afterDir="false" />
+    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : added a new yu classification code">
+      <change afterPath="$PROJECT_DIR$/instagram_algo_analysis/instagram_algo.py.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random_forest/Bank_data/classify_code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Random_forest/Bank_data/classify_code.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764434767684</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="feat : added a new yu classification code">
+      <option name="closed" value="true" />
+      <created>1764521516866</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764521516866</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -217,6 +226,7 @@
     <MESSAGE value="feat : workspace" />
     <MESSAGE value="feat : added a new classification" />
     <MESSAGE value="feat : added a new classification code" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : added a new classification code" />
+    <MESSAGE value="feat : added a new yu classification code" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : added a new yu classification code" />
   </component>
 </project>
