@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : added a new instagram analytics code">
+    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : added a new dataset of med_cost_pred">
+      <change afterPath="$PROJECT_DIR$/Medical_cost_prediction/med_cost_pred.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_regression/Salary_prediction/Salary_pred_code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear_regression/House_rate/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/linear_regression/House_rate/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear_regression/House_rate/house_rate.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_regression/House_rate/house_rate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify/KNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/spotify/KNN.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +56,13 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.3D_plot.executor&quot;: &quot;Run&quot;,
     &quot;Python.XGboost.executor&quot;: &quot;Run&quot;,
     &quot;Python.csdjhsi.executor&quot;: &quot;Run&quot;,
     &quot;Python.data_visualisation.executor&quot;: &quot;Run&quot;,
     &quot;Python.fswdrefgwsdfs.executor&quot;: &quot;Run&quot;,
     &quot;Python.gvsdgvfsd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.house_rate.executor&quot;: &quot;Run&quot;,
     &quot;Python.predict_code.executor&quot;: &quot;Run&quot;,
     &quot;Python.ten.executor&quot;: &quot;Run&quot;,
     &quot;Python.xgB=_boost.executor&quot;: &quot;Run&quot;,
@@ -225,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764646724024</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="feat : added a new dataset of med_cost_pred">
+      <option name="closed" value="true" />
+      <created>1765930260788</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765930260788</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -242,6 +258,7 @@
     <MESSAGE value="feat : added a new classification code" />
     <MESSAGE value="feat : added a new yu classification code" />
     <MESSAGE value="feat : added a new instagram analytics code" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : added a new instagram analytics code" />
+    <MESSAGE value="feat : added a new dataset of med_cost_pred" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : added a new dataset of med_cost_pred" />
   </component>
 </project>
