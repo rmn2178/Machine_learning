@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : added a readme file">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ee8d6416-6830-4b4e-9344-ecd38411754b" name="Changes" comment="feat : added a new file">
+      <change afterPath="$PROJECT_DIR$/mail_classification/mail_classification_code.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spotify/KNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/spotify/KNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spotify/log_reg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/spotify/log_reg.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liver_patient/RFA_classify.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/liver_patient/RFA_classify.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liver_patient/XGboost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youth_unemployment/unemployent_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/youth_unemployment/unemployent_classification.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767968626079</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="feat : added a new file">
+      <option name="closed" value="true" />
+      <created>1768210252900</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1768210252900</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,6 +282,7 @@
     <MESSAGE value="feat : added a new instagram analytics code" />
     <MESSAGE value="feat : added a new dataset of med_cost_pred" />
     <MESSAGE value="feat : added a readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : added a readme file" />
+    <MESSAGE value="feat : added a new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : added a new file" />
   </component>
 </project>
